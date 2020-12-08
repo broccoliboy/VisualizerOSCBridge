@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Visualizer OSC Bridge</string>
+    <string name="connected_clients_header">Connected clients:</string>
+</resources>
